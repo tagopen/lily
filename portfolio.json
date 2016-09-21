@@ -1,0 +1,11 @@
+{
+  "author": "Security2431",
+  "name": "Клининговая компания Lily",
+  "version": "0.1",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, necessitatibus.",
+  "date": "05/06/2016",
+  "responsive": {"0":"320", "1":"768", "2":"960", "3":"1200"},
+  "category": "landing",
+  "time": "2",
+  "enabled": "true"
+}
